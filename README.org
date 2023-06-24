@@ -1,0 +1,34 @@
+
+* Presentation about RDF
+
+** A tiny Presentation
+
+Presentation about RDF / Turtle file format
+
+Presentation made with Slideshow/Simple - Racket
+
+Presentation given online and forums
+
+23 jun 2023
+
+** Build and Run presentation
+
+#+begin_src bash
+ racket -I slideshow/simple main.rkt
+#+end_src
+
+the actual build process has been done using gimp and shotgun to take the .pdf file.
+
+** References
+
+also on directory resources, there is the source link for the presentation
+
+https://github.com/JoshData/rdfabout
+
+** Motivation
+
+Present knowledger about semantic web and ways of doing new types of APIs and forms of comunication and systematic comunications with machines
+
+** Thanks
+
+Thank you

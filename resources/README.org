@@ -1,0 +1,12 @@
+
+
+* Reference material
+
+
+** URL Git Repo
+
+https://github.com/JoshData/rdfabout
+
+** Date
+
+23 jun 2023
