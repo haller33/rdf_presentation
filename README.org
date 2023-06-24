@@ -1,7 +1,7 @@
 
 * Presentation about RDF
 
-** A tiny Presentation
+** A tiny Presentation ( NOT FINISH )
 
 Presentation about RDF / Turtle file format
 
