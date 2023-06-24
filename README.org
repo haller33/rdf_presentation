@@ -25,6 +25,11 @@ also on directory resources, there is the source link for the presentation
 
 https://github.com/JoshData/rdfabout
 
+*** slides
+racket lang mode for slides, a simple DSL for create slides
+
+https://github.com/apg/slideshow-simple
+
 ** Motivation
 
 Present knowledger about semantic web and ways of doing new types of APIs and forms of comunication and systematic comunications with machines
